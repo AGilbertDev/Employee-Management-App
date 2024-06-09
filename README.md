@@ -1,2 +1,9 @@
-# Employee-Management-App
-An employee management system that allows employees at a Distribution Center to view their performance and pay for the week. Administrator have the ability to modify employee information, while employees can only update their personal information, such address and phone number.
+# Employee Management App
+
+This Web App allows an employee working at a distribution center to edit their personal information as well as view their performance for the week and their pay, including performance, and attendance bonuses. An administrator can edit any employee's position and salary as well as delete their profile or create a new one.
+
+## UI Design
+
+Here is a quick prototype created with Figma: 
+<a href='https://www.figma.com/design/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>View the Prototype here!</a>
+<img src=''>
