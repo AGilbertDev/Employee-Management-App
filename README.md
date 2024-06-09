@@ -4,6 +4,6 @@ This Web App allows an employee working at a distribution center to edit their p
 
 ## UI Design
 
-Here is a quick prototype created with Figma: 
-<a href='https://www.figma.com/design/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>View the Prototype here!</a>
-<img src=''>
+Here is a quick prototype created with Figma:<br>
+<a href='https://www.figma.com/design/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>View the Prototype here!</a><br>
+<img src='images/prototype1.jpg'>
