@@ -10,7 +10,7 @@ Here is a quick prototype created with Figma:<br>
 <img src='images/prototype.jpg'></a><br>
 
 
-## Database Diagram
+## SQL Database Diagram
 
 Here is a diagram of the database required for this project:<br>
 <img src='images/empManagementDB.png'>
