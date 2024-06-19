@@ -5,8 +5,7 @@ This Web App allows an employee working at a distribution center to edit their p
 ## Prototype
 
 Here is a quick prototype created with Figma:<br>
-<a href='https://www.figma.com/design/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>View the Prototype here!<br><img src='images/prototype1.jpg'>
-</a>
+<a href='https://www.figma.com/design/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>View the Prototype here!</a>
 
 ## Database Diagram
 
