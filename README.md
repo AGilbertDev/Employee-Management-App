@@ -14,3 +14,5 @@ Here is a quick prototype created with Figma:<br>
 
 Here is a diagram of the database required for this project:<br>
 <img src='images/empManagementDB.png'>
+
+## MVC Class Diagram
