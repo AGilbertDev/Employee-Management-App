@@ -16,3 +16,12 @@ Here is a diagram of the database required for this project:<br>
 <img src='images/empManagementDB.png'>
 
 ## MVC Class Diagram
+
+A first draft Class Diagram for MVC development with PHP:<br>
+<img src='images/classes.jpg'><br>
+### Model Classes<br>
+<img src='images/models.jpg'><br>
+### View Classes<br>
+<img src='images/views.jpg'><br>
+### Controller Classes<br>
+<img src='images/controllers.jpg'>
