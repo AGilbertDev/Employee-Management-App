@@ -12,7 +12,7 @@ Here is a quick prototype created with Figma:<br>
 
 ## SQL Database Diagram
 
-Here is a diagram of the database required for this project:<br>
+Here is a draft diagram of the database required for this project:<br>
 <img src='images/empManagementDB.png'>
 
 ## MVC Class Diagram
