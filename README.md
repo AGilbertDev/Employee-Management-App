@@ -4,7 +4,7 @@ This Web App allows an employee working at a distribution center to edit their p
 
 ## Prototype
 
-Here is a quick prototype created with Figma:<br>
+Here is a quick prototype created with Figma intended as a mobile-first responsive design:<br>
 <a href='https://www.figma.com/proto/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>Try the prototype here!</a> or 
 <a href='https://www.figma.com/design/xyOPc04fT62nfdoE2BY4CR/App-Dashboard?node-id=0-1&t=jFOuYhtqTXEeHPR3-0'>View the design file here!<br><br>
 <img src='images/prototype.jpg'></a><br>
@@ -12,12 +12,12 @@ Here is a quick prototype created with Figma:<br>
 
 ## SQL Database Diagram
 
-Here is a draft diagram to gain a better understanding of the database required for this project:<br>
+Here is a draft relational diagram to gain a better understanding of the database required for this project:<br>
 <img src='images/empManagementDB.png'>
 
 ## MVC Class Diagram
 
-A first draft Class Diagram for MVC development with PHP:<br>
+A first draft Class Diagram for MVC development with PHP (views are my webpages, and models are object classes):<br>
 <img src='images/classes.jpg'><br>
 ### Model Classes<br>
 <img src='images/models.jpg'><br>
