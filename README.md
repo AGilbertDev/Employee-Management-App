@@ -1,4 +1,4 @@
-# Employee Management App
+# Employee Management (Web) App
 
 This Web App allows an employee working at a distribution center to edit their personal information as well as view their performance for the week and their pay, including performance, and attendance bonuses. An administrator can edit any employee's position and salary as well as delete their profile or create a new one.
 
