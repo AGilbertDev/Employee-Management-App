@@ -17,7 +17,7 @@ Here is a draft relational diagram to gain a better understanding of the databas
 
 ## MVC Class Diagram
 
-A first draft Class Diagram for MVC development with PHP. Views are my webpages, models are object classes, and inheritance for the views are probably php includes, so the final design might be slightly different from the diagram:<br>
+A first draft Class Diagram for MVC development with PHP. Views are my webpages, models are object classes, and inheritance for the views are probably php includes, so the final design might be slightly different from the diagram. This is just a general idea:<br>
 <img src='images/classes.jpg'><br>
 ### Model Classes<br>
 <img src='images/models.jpg'><br>
